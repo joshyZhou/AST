@@ -4,7 +4,7 @@
 
 
 #### News
-- **March 15, 2024:** Paper accepted at CVPR 2022 :tada: 
+- **March 15, 2024:** Paper accepted at CVPR 2024 :tada: 
 
 <hr />
 
