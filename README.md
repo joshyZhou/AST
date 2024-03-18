@@ -1,6 +1,6 @@
 # Adapt or Perish: Adaptive Sparse Transformer with Attentive Feature Refinement for Image Restoration (CVPR 2024)
 
-[Shihao Zhou](https://joshyzhou.github.io/), Duosheng Chen, [Jinshan Pan](https://jspan.github.io/), [Jinglei Shi](https://jingleishi.github.io/), and [Jufeng Yang](https://cv.nankai.edu.cn/)
+[Shihao Zhou](https://joshyzhou.github.io/), [Duosheng Chen](https://github.com/Calvin11311), [Jinshan Pan](https://jspan.github.io/), [Jinglei Shi](https://jingleishi.github.io/), and [Jufeng Yang](https://cv.nankai.edu.cn/)
 
 
 #### News
