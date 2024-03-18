@@ -4,7 +4,7 @@
 
 
 #### News
-- **March 15, 2024:** AST has been accepted to CVPR 2024 :tada: 
+- **Feb 27, 2024:** AST has been accepted to CVPR 2024 :tada: 
 
 <hr />
 
