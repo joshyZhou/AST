@@ -11,6 +11,20 @@
 <!-- > **Abstract:** *Transformer-based approaches have achieved promising performance in image restoration tasks, given their ability to model long-range dependencies, which is crucial for recovering clear images. Though diverse efficient attention mechanism designs have addressed the intensive computations associated with using transformers, they often involve redundant information and noisy interactions from irrelevant regions by considering all available tokens. In this work, we propose an <strong>A</strong>daptive <strong>S</strong>parse <strong>T</strong>ransformer (<strong>AST</strong>) to mitigate the noisy interactions of irrelevant areas and remove feature redundancy in both spatial and channel domains. AST comprises two core designs, i.e., an Adaptive Sparse Self-Attention (ASSA) block and a Feature Refinement Feed-forward Network (FRFN). Specifically, ASSA is adaptively computed using a two-branch paradigm, where the sparse branch is introduced to filter out the negative impacts of low query-key matching scores for aggregating features, while the dense one ensures sufficient information flow through the network for learning discriminative representations. Meanwhile, FRFN employs an enhance-and-ease scheme to eliminate feature redundancy in channels, enhancing the restoration of clear latent images. Experimental results on commonly used benchmarks have demonstrated the versatility and competitive performance of our method in <strong>6</strong> tasks, including deraining, dehazing, deraindrop, demoireing, desnowing and deshadowing.* 
 <hr /> -->
 
+## Package dependencies
+The project is built with PyTorch 1.9.0, Python3.7, CUDA11.1. For package dependencies, you can install them by:
+```bash
+pip install -r requirements.txt
+```
+
+## Evaluation
+To evaluate AST, you can run:
+
+```sh
+sh script/test.sh
+```
+For evaluate on each dataset, you should uncomment corresponding line.
+
 
 ## Citation
 If you find this project useful, please consider citing:
@@ -22,3 +36,6 @@ If you find this project useful, please consider citing:
       year={2024}
     }
 
+## Acknowledgement
+
+This code borrows heavily from [Uformer](https://github.com/ZhendongWang6/Uformer).
