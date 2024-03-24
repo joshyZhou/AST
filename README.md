@@ -26,6 +26,35 @@ sh script/test.sh
 For evaluate on each dataset, you should uncomment corresponding line.
 
 
+## Results
+Experiments are performed for different image processing tasks including, rain streak removal, raindrop removal, and haze removal. 
+Here is a summary table containing hyperlinks for easy navigation:
+
+<table>
+  <tr>
+    <th align="left">Task</th>
+    <th align="center">Pretrained model</th>
+    <th align="center">Visual Results</th>
+  </tr>
+  <tr>
+    <td align="left">Rain Streak</td>
+    <td align="center"><a href="https://pan.baidu.com/s/1uqsXeztA55ny8vnQHfxmlA?pw=h68m">Download(code:wqdg)</a></td>
+    <td align="center"><a href="https://pan.baidu.com/s/1KtAWESp3mzfrV4qy7BLaWg?pw=wqdg">Download(code:h68m)</a></td>
+  </tr>
+  <tr>
+    <td align="left">Raindrop</td>
+    <td align="center">Download</td>
+    <td align="center">Download</a></td>
+  </tr>
+  <tr>
+    <td align="left">Haze</td>
+    <td align="center">Download</td>
+    <td align="center">Download</a></td>
+  </tr>
+
+</table>
+
+
 ## Citation
 If you find this project useful, please consider citing:
 
