@@ -32,22 +32,22 @@ Here is a summary table containing hyperlinks for easy navigation:
 
 <table>
   <tr>
-    <th align="left">Task</th>
+    <th align="left">Benchmark</th>
     <th align="center">Pretrained model</th>
     <th align="center">Visual Results</th>
   </tr>
   <tr>
-    <td align="left">Rain Streak</td>
-    <td align="center"><a href="https://pan.baidu.com/s/1uqsXeztA55ny8vnQHfxmlA">Download(code:h68m)</a></td>
-    <td align="center"><a href="https://pan.baidu.com/s/1KtAWESp3mzfrV4qy7BLaWg">Download(code:wqdg)</a></td>
+    <td align="left">SPAD</td>
+    <td align="center"><a href="https://pan.baidu.com/s/1uqsXeztA55ny8vnQHfxmlA">(code:h68m)</a></td>
+    <td align="center"><a href="https://pan.baidu.com/s/1KtAWESp3mzfrV4qy7BLaWg">(code:wqdg)</a></td>
   </tr>
   <tr>
-    <td align="left">Raindrop</td>
+    <td align="left">AGAN</td>
     <td align="center">Download</td>
     <td align="center">Download</a></td>
   </tr>
   <tr>
-    <td align="left">Haze</td>
+    <td align="left">Dense-Haze</td>
     <td align="center">Download</td>
     <td align="center">Download</a></td>
   </tr>
