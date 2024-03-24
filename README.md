@@ -38,8 +38,8 @@ Here is a summary table containing hyperlinks for easy navigation:
   </tr>
   <tr>
     <td align="left">Rain Streak</td>
-    <td align="center"><a href="https://pan.baidu.com/s/1uqsXeztA55ny8vnQHfxmlA?pw=h68m">Download(code:wqdg)</a></td>
-    <td align="center"><a href="https://pan.baidu.com/s/1KtAWESp3mzfrV4qy7BLaWg?pw=wqdg">Download(code:h68m)</a></td>
+    <td align="center"><a href="https://pan.baidu.com/s/1uqsXeztA55ny8vnQHfxmlA">Download(code:wqdg)</a></td>
+    <td align="center"><a href="https://pan.baidu.com/s/1KtAWESp3mzfrV4qy7BLaWg">Download(code:h68m)</a></td>
   </tr>
   <tr>
     <td align="left">Raindrop</td>
