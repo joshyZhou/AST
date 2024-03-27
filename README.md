@@ -43,8 +43,9 @@ Here is a summary table containing hyperlinks for easy navigation:
   </tr>
   <tr>
     <td align="left">AGAN</td>
-    <td align="center">Download</td>
-    <td align="center">Download</a></td>
+    <td align="center"><a href="https://pan.baidu.com/s/1VewSQl6c7uWHpfCDVQeW4g?pwd=astt">(code:astt)</td>
+    <td align="center"><a href="https://pan.baidu.com/s/1obhEpvWLV9FLF47FMcNX7g?pwd=astt">(code:astt)</a></td>
+
   </tr>
   <tr>
     <td align="left">Dense-Haze</td>
