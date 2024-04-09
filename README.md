@@ -16,6 +16,23 @@ The project is built with PyTorch 1.9.0, Python3.7, CUDA11.1. For package depend
 ```bash
 pip install -r requirements.txt
 ```
+## Training
+### Derain
+To train AST on SPAD, you can run:
+```sh
+sh script/train_derain.sh
+```
+### Dehaze
+To train AST on Densehaze, you can run:
+```sh
+sh script/train_dehaze.sh
+```
+### Raindrop
+To train AST on AGAN, you can run:
+```sh
+sh script/train_raindrop.sh
+```
+
 
 ## Evaluation
 To evaluate AST, you can run:
