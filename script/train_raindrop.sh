@@ -1,0 +1,6 @@
+##train on AGAN-Data##
+python ./train/train_raindrop.py --arch AST_B --batch_size 32 --gpu '0,1' --train_ps 128 --train_dir ../dataset/raindrop/train/ --val_ps 128 --val_dir ../dataset/raindrop/test_a/ --env _1102_s1 --mode derain_drop --nepoch 300 --dataset raindrop --warmup --lr_initial 0.0002 --token_mlp frfn
+
+# python ./train/train_derain_drop.py --arch AST_B --retrain --pretrain_weights ./logs/raindrop/AGAN-Data/AST_B_1102_s1/models/model_best.pth --batch_size 16 --gpu '0,1' --train_ps 256 --train_dir ../dataset/raindrop/train/ --val_ps 256 --val_dir ../dataset/raindrop/test_a/ --env _1103_s2 --mode derain_drop --nepoch 200 --dataset raindrop --warmup --lr_initial 0.0001 --token_mlp frfn
+
+# python ./train/train_derain_drop.py --arch AST_B --retrain --pretrain_weights ./logs/derain/raindrop/AST_B_1103_s2/models/model_best.pth --batch_size 8 --gpu '0,1' --train_ps 384 --train_dir ../dataset/raindrop/train/ --val_ps 384 --val_dir ../dataset/raindrop/test_a/ --env _1103_s3 --mode derain_drop --nepoch 150 --dataset raindrop --warmup --lr_initial 0.00008 --token_mlp frfn
