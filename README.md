@@ -4,6 +4,7 @@
 
 
 #### News
+- **Jul 16, 2025:** [Hugging Face Demo](https://huggingface.co/spaces/suncongcong/AST-Demo) is available now, thanks contribution of [congcong](https://github.com/naninasm)
 - **Feb 27, 2024:** AST has been accepted to CVPR 2024 :tada: 
 
 <hr />
